@@ -2,7 +2,7 @@
 <img src = "https://media.giphy.com/media/mi6DsSSNKDbUY/giphy-downsized.gif">  
 </div>
 
-## Hi there 👨🏻‍💻👋
+# Hi there 👨🏻‍💻👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **LaTeX, Python, C++**
@@ -12,3 +12,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
+

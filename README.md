@@ -1,3 +1,7 @@
+<div align = "center">
+<img src = "https://media.giphy.com/media/mi6DsSSNKDbUY/giphy-downsized.gif">  
+</div>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...

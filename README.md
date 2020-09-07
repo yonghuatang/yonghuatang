@@ -13,4 +13,4 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
-<gif src="https://github-readme-stats.vercel.app/api?username=yonghuatang&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=yonghuatang&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=151515">

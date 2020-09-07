@@ -2,7 +2,6 @@
 <img src = "https://media.giphy.com/media/mi6DsSSNKDbUY/giphy-downsized.gif">  
 </div>
 
-[![Header](https://raw.githubusercontent.com/yonghuatang/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 # Hi there 👨🏻‍💻👋
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,4 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />

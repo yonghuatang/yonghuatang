@@ -11,6 +11,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I'm not fun
+- ⚡ Fun fact: haha
 
 <img src="https://github-readme-stats.vercel.app/api?username=yonghuatang&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=151515">

@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on aerospace engineering
 - 🌱 I’m currently learning **LaTeX, Python, C++, a bit of HTML and Java**
-- 👯 I’m looking to collaborate on _coding competitions, projects and much more!_
+- 💪🏻 I’m looking to collaborate on _coding competitions, projects and much more!_
 - 🤔 I’m looking for help with concepts of object-oriented programming
 - 💬 Ask me about anything!
 - 📫 How to reach me: pm me

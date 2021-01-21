@@ -5,7 +5,8 @@
 # Hi there 👨🏻‍💻👋
 
 - 🔭 I’m currently working on aerospace engineering
-- 🌱 I’m currently learning **LaTeX, Python, C++, a bit of HTML and Java**
+- 🌱 I’m currently learning **LaTeX, Python, C++, a bit of HTML and Java**  
+- 🤯 I’m currently learning **SolidWorks, MATLAB, Simulink, CFD**
 - 💪🏻 I’m looking to collaborate on _coding competitions, projects and much more!_
 - 🤔 I’m looking for help with concepts of object-oriented programming
 - 💬 Ask me about anything!
@@ -13,4 +14,4 @@
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: haha
 
-<img src="https://github-readme-stats.vercel.app/api?username=yonghuatang&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=yonghuatang&&show_icons=true&title_color=00ff48&icon_color=ffffff&text_color=00b530&bg_color=151515">

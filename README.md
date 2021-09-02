@@ -1,7 +1,3 @@
-<div align = "center">
-<img src = "https://media.giphy.com/media/mi6DsSSNKDbUY/giphy-downsized.gif">  
-</div>
-
 # Hi there 👨🏻‍💻👋
 
 - 🔭 I’m currently working on aerospace engineering, aerodynamics, fluid mechanics
@@ -12,4 +8,3 @@
 - 💬 Ask me about anything! ╰(*°▽°*)╯
 - 📫 How to reach me: pm me
 - 😄 Pronouns: He, Him 🚹
-- ⚡ Fun fact: Fact is fun!

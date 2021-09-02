@@ -13,5 +13,3 @@
 - 📫 How to reach me: pm me
 - 😄 Pronouns: He, Him 🚹
 - ⚡ Fun fact: Fact is fun!
-
-<img src="https://github-readme-stats.vercel.app/api?username=yonghuatang&&show_icons=true&title_color=00ff48&icon_color=ffffff&text_color=00b530&bg_color=151515">

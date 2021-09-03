@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with concepts of _object-oriented programming_ and _data structures & algorithms_
 - 💬 Ask me about anything! ╰(*°▽°*)╯
 - 📫 How to reach me: pm me
-- 😄 Pronouns: He, Him 🚹
+- 😄 Pronouns: He, Him

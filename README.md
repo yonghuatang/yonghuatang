@@ -6,4 +6,4 @@
 💬 Ask me about anything! ╰(*°▽°*)╯  
 📫 How to reach me: yht1e20@soton.ac.uk
 
-### ✨ My brand new ___personal blog___ yay [click here](https://jamestang8.wixsite.com/blog) :3
+### ✨ Check out my brand new [___personal blog___](https://jamestang8.wixsite.com/blog) yay :3

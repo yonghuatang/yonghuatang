@@ -12,5 +12,3 @@
 
 uni stress be like  
 ![](https://media4.giphy.com/media/ZF40pid2AozVC/giphy.gif?cid=ecf05e47wffenk6q96kj6yv6omc508begkurf6hvasv5c872&rid=giphy.gif&ct=g)  
-
- <embed src="https://www.youtube.com./watch?v=dQw4w9WgXcQ" loop="true" autostart="true" width="2" height="0">

@@ -1,4 +1,4 @@
-## `𝚜𝚝𝚍::𝚌𝚘𝚞𝚝 << "𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚊𝚐𝚎!" << 𝚜𝚝𝚍::𝚎𝚗𝚍𝚕;` &ensp; <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/spider-2.gif" alt="drawing" width="60">  
+## `𝚜𝚝𝚍::𝚌𝚘𝚞𝚝 << "𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚊𝚐𝚎!" << 𝚜𝚝𝚍::𝚎𝚗𝚍𝚕;` <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/spider-2.gif" alt="drawing" width="60">  
 ✈ &ensp; I’m currently working on aerospace engineering, aerodynamics, fluid mechanics  
 🌱 &ensp; I’m currently using **Python, C++, LaTeX**  
 👨🏻‍💻 &ensp; My favourite code editor: **Visual Studio Code**  

@@ -13,5 +13,5 @@
 uni stress be like  
 ![](https://media4.giphy.com/media/ZF40pid2AozVC/giphy.gif)  
 
-![](https://github-readme-stats.vercel.app/api?username=yonghuatang&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7&hide_rank=true)  
+![](https://github-readme-stats.vercel.app/api?username=yonghuatang&show_icons=true&title_color=610D4D&icon_color=603cb8&text_color=440A5C&bg_color=30,5e72eb,ffcac9&hide_rank=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghuatang&layout=compact&langs_count=6)

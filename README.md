@@ -1,4 +1,4 @@
-## `𝚜𝚝𝚍::𝚌𝚘𝚞𝚝 << "𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚊𝚐𝚎!" << 𝚜𝚝𝚍::𝚎𝚗𝚍𝚕;`  
+## `𝚜𝚝𝚍::𝚌𝚘𝚞𝚝 << "𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚊𝚐𝚎!" << 𝚜𝚝𝚍::𝚎𝚗𝚍𝚕;`   
 🔭 I’m currently working on aerospace engineering, aerodynamics, fluid mechanics  
 🌱 I’m currently using **LaTeX, Python, C++**  
 🤯 I’m currently learning **SolidWorks, MATLAB, Simulink, CFD**  

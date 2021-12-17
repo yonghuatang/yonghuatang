@@ -7,8 +7,8 @@
 🤔 &ensp; I’m looking for help with concepts of ***object-oriented programming***, ***dynamic programming*** and ***data structures & algorithms***  
 💬 &ensp; Ask me about anything! ╰(*°▽°*)╯  
 📫 &ensp; How to reach me: yht1e20@soton.ac.uk
-
-#### ✨ Check out my brand new [___personal blog___](https://jamestang8.wixsite.com/blog) yay :3 ❄🎄  
+  
+### ✨ Check out my brand new [___personal blog___](https://jamestang8.wixsite.com/blog) yay :3 ❄🎄  
 
 uni stress be like  
 ![](https://media4.giphy.com/media/ZF40pid2AozVC/giphy.gif)  

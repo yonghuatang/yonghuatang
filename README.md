@@ -22,8 +22,7 @@
 ### ✨ Check out my brand new [___personal blog___](https://jamestang8.wixsite.com/blog) yay :3 ❄🎄  
 
 uni stress be like  
-![](https://media4.giphy.com/media/ZF40pid2AozVC/giphy.gif)  ![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f4d61746c61625f4c6f676f2e706e67](https://user-images.githubusercontent.com/70836155/147054348-aabeb96d-3f0a-4ce9-84f2-9f869d9359f0.png)
-
+![](https://media4.giphy.com/media/ZF40pid2AozVC/giphy.gif)  
 helpppp lol  
 
 [![](https://github-readme-stats.vercel.app/api?username=yonghuatang&show_icons=true&title_color=610D4D&icon_color=603cb8&text_color=440A5C&bg_color=45,5e72eb,ffcac9&hide_rank=true)]()  

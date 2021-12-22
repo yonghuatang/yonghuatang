@@ -1,0 +1,13 @@
+name: Random README image
+
+on:
+    schedule:
+        - cron: "*/1 * * * *"
+    workflow_dispatch:
+
+jobs:
+    update-readme:
+        name: Random README image
+        runs-on: ubuntu-latest
+        steps:
+            - uses: siddharth2016/update-readme-image@main

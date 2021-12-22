@@ -1,5 +1,7 @@
 ## <p align="center"> ***`std::cout << “Welcome to my profile page!” << std::endl;`*** &emsp; [<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2021/09/Man-Technologist.gif" width=75>](https://www.youtube.com./watch?v=dQw4w9WgXcQ) </p>   
-<img src="https://github.com/yonghuatang/yonghuatang/blob/master/resources/profilegif_2.gif" width=100%>
+
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
 
 ✈ &ensp; I’m currently working on aerospace engineering, aerodynamics, fluid mechanics  
 🌱 &ensp; I’m currently using **C++, Python, LaTeX**  

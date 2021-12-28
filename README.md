@@ -26,7 +26,7 @@
 
 ### ✨ Check out my brand new [___personal blog___](https://jamestang8.wixsite.com/blog) yay :3 ❄🎄  
 
-![](https://64.media.tumblr.com/4e2e57c2c7438d51d5c1cf8539f4c038/741b2f4128ee961d-e8/s500x750/bd90c622ae3e3d110251ee89608236ef26e34889.gif)  
+[<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width=500>]()
 
 [![](https://github-readme-stats.vercel.app/api?username=yonghuatang&show_icons=true&title_color=610D4D&icon_color=603cb8&text_color=440A5C&bg_color=45,5e72eb,ffcac9&hide_rank=true)]()  
 

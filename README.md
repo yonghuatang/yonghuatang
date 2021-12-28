@@ -30,4 +30,4 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=yonghuatang&show_icons=true&title_color=610D4D&icon_color=603cb8&text_color=440A5C&bg_color=45,5e72eb,ffcac9&hide_rank=true)]()  
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghuatang&layout=compact&langs_count=4)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghuatang&layout=compact&langs_count=4)]() [<img src="https://i.pinimg.com/originals/60/21/4d/60214d33ad3235068dbf68318734891a.gif" align="right" width=100>]()

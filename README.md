@@ -1,4 +1,4 @@
-## <p align="center"> ***`std::cout << “Welcome to my profile page!” << std::endl;`*** &emsp; [<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2021/09/Man-Technologist.gif" width=75>](https://www.youtube.com./watch?v=dQw4w9WgXcQ) </p>   
+## <p align="center"> **`std::cout << “Welcome to my profile page!” << std::endl;`** &emsp; [<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2021/09/Man-Technologist.gif" width=75>](https://www.youtube.com./watch?v=dQw4w9WgXcQ) </p>   
 
 <!--START_SECTION:update_image-->
 [<img src=https://raw.githubusercontent.com/yonghuatang/yonghuatang/master/.github/images/profilegif_2.gif width=100% />]()
@@ -10,6 +10,7 @@
 🍒 &ensp; I’m currently learning **HTML, Java, SolidWorks, MATLAB & Simulink, ANSYS Fluent**  
 💪🏻 &ensp; I’m looking to collaborate on coding competitions, research projects and much more!  
 🤔 &ensp; I’m looking for help with concepts of ***object-oriented programming***, ***dynamic programming*** and ***data structures & algorithms***  
+🎧 &ensp; My favourite genres: **`["french house", "deep house", "8-bit", "trap"]`**  
 💬 &ensp; Ask me about anything! ╰(*°▽°*)╯  
 📫 &ensp; How to reach me: yht1e20@soton.ac.uk  
 

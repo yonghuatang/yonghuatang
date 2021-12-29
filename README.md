@@ -1,4 +1,9 @@
-## <p align="center"> [<img src=https://raw.githubusercontent.com/yonghuatang/yonghuatang/master/resources/README_BANNER_CROPPED.gif />]() &emsp; [<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2021/09/Man-Technologist.gif" width=75>](https://www.youtube.com./watch?v=dQw4w9WgXcQ) </p>   
+<p align="center">
+<img src="https://raw.githubusercontent.com/yonghuatang/yonghuatang/master/resources/README_BANNER_CROPPED.gif" width=650> &emsp;
+<img src="https://cdn-0.emojis.wiki/wp-content/uploads/2021/09/Man-Technologist.gif" width=75>
+</p>   
+
+---
 
 <!--START_SECTION:update_image-->
 [<img src=https://raw.githubusercontent.com/yonghuatang/yonghuatang/master/resources/profilegif_2.gif width=100% />]()

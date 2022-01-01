@@ -33,8 +33,10 @@
 
 ### ✨ Check out my brand new [___personal blog___](https://jamestang8.wixsite.com/blog) yay :3 ❄🎄  
 
-[<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width=500>]()
+[<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width=500>]()  
 
 [![](https://github-readme-stats.vercel.app/api?username=yonghuatang&show_icons=true&title_color=610D4D&icon_color=603cb8&text_color=440A5C&bg_color=45,5e72eb,ffcac9&hide_rank=true)]()  
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghuatang&layout=compact&langs_count=4)]() [<img src="https://i.pinimg.com/originals/51/04/43/51044308bbd09742b8f5e029971dab21.gif" align="right" width=150>](https://www.google.co.uk/logos/2010/pacman10-i.html)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghuatang&layout=compact&langs_count=4)]() [<img src="https://i.pinimg.com/originals/51/04/43/51044308bbd09742b8f5e029971dab21.gif" align="right" width=150>](https://www.google.co.uk/logos/2010/pacman10-i.html)  
+
+[![](<img src="https://raw.githubusercontent.com/yonghuatang/yonghuatang/master/resources/spotify-banner.PNG" width=100%>)](https://open.spotify.com/playlist/0YBJbMnv7BZHmhvZG2OHSg?go=1&sp_cid=988b2b3e-5631-4d85-99af-99c4db08b8f5&utm_source=embed_player_m&utm_medium=desktop&nd=1)

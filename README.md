@@ -16,7 +16,6 @@
 💪🏻 &ensp; I’m looking to collaborate on coding competitions, research projects and much more!  
 🤔 &ensp; I’m looking for help with concepts of ***object-oriented programming***, ***dynamic programming*** and ***data structures & algorithms***  
 🎧 &ensp; My favourite genres: **`["french house", "deep house", "vaporwave", "8-bit", "trap"]`**  
-🎨 &ensp; My favourite colour: *Isn't that conspicuous?* 🟪  
 💬 &ensp; Ask me about anything! ╰(*°▽°*)╯  
 📫 &ensp; How to reach me: yht1e20@soton.ac.uk  
 

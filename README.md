@@ -12,7 +12,7 @@
 ✈ &ensp; I’m currently working on aerospace engineering, aerodynamics, fluid mechanics  
 🌱 &ensp; I’m currently using **C++, Python, LaTeX**  
 👨🏻‍💻 &ensp; My favourite code editor: **Visual Studio Code**  
-🍒 &ensp; I’m currently learning **HTML, Java, SolidWorks, MATLAB & Simulink, ANSYS Fluent**  
+🍒 &ensp; I’m currently learning **HTML, Java, MATLAB & Simulink**  
 💪🏻 &ensp; I’m looking to collaborate on coding competitions, research projects and much more!  
 🤔 &ensp; I’m looking for help with concepts of ***object-oriented programming***, ***dynamic programming*** and ***data structures & algorithms***  
 🎧 &ensp; My favourite genres: **`["french house", "deep house", "vaporwave", "8-bit", "trap"]`**  

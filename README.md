@@ -6,7 +6,7 @@
 ---
 
 <!--START_SECTION:update_image-->
-[<img src="https://raw.githubusercontent.com/yonghuatang/yonghuatang/master/resources/profilegif_10.gif" width=100% />]()
+[<img src="https://raw.githubusercontent.com/yonghuatang/yonghuatang/master/resources/profilegif_10.gif" width=100% />](https://www.youtube.com/watch?v=AHJYY3l8ZoQ)
 <!--END_SECTION:update_image-->
 
 ✈ &ensp; I’m currently working on aerospace engineering, aerodynamics, fluid mechanics  

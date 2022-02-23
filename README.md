@@ -14,8 +14,8 @@
 👨🏻‍💻 &ensp; My favourite code editor: **Visual Studio Code**  
 🍒 &ensp; I’m currently learning **HTML, Java, MATLAB & Simulink**  
 💪🏻 &ensp; I’m looking to collaborate on coding competitions, research projects and much more!  
-🤔 &ensp; I’m looking for help with concepts of ***object-oriented programming***, ***dynamic programming*** and ***data structures & algorithms***  
-🎧 &ensp; My favourite genres: **`["french house", "deep house", "vaporwave", "8-bit", "trap"]`**  
+🤔 &ensp; I’m looking for help with concepts of **object-oriented programming**, **dynamic programming** and **data structures & algorithms**  
+🎧 &ensp; My favourite genres: ***french house, future funk, vaporwave*** &ensp; [<img src="https://c.tenor.com/qiU8k19Bmr4AAAAi/cat-vibing-cat.gif" width=20>]()  
 💬 &ensp; Ask me about anything! ╰(*°▽°*)╯  
 📫 &ensp; How to reach me: yht1e20@soton.ac.uk  
 

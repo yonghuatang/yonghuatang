@@ -32,8 +32,8 @@
 
 ### ✨ Check out my brand new [___personal blog___](https://jamestang8.wixsite.com/blog) yay :3 ❄🎄  
 
-[<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width=500>]()  
+[<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width=500>](https://www.google.co.uk/logos/2010/pacman10-i.html)  
 
 [![](https://github-readme-stats.vercel.app/api?username=yonghuatang&show_icons=true&title_color=610D4D&icon_color=603cb8&text_color=440A5C&bg_color=45,5e72eb,ffcac9&hide_rank=true)]()  
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghuatang&layout=compact&langs_count=4)]() [<img src="https://i.pinimg.com/originals/51/04/43/51044308bbd09742b8f5e029971dab21.gif" align="right" width=150>](https://www.google.co.uk/logos/2010/pacman10-i.html)  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghuatang&layout=compact&langs_count=4)]() [<img src="https://i.pinimg.com/originals/51/04/43/51044308bbd09742b8f5e029971dab21.gif" align="right" width=150>](https://www.youtube.com/watch?v=zhIScvlFn2w)  
